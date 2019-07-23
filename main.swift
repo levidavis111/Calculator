@@ -75,7 +75,7 @@ func calculator() {
                                 if mysteryGuess == "sqrt" {
                                     print("Correct!")
                                 } else {
-                                    print("Sorry, it was 'sqrt'!")
+                                    print("Sorry, it was 'sqrt(a)'!")
                                 }
                             }
                         }
